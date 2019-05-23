@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    justify-content: center;
+}
+
+article {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.shop {
+    display: flex;
+    border: dotted 1px black;
+    flex: 0 1 33%;
+    width: 100px;
+}
